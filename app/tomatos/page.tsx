@@ -15,7 +15,7 @@ export default function page() {
         </button>
         </div>
         
-        <div className='w-full h-150 flex justify-center items-center'>
+        <div className='w-full h-50 flex justify-center items-center'>
             <h1 className='text-5xl font-bold uppercase'>Помидоры!</h1>
         </div>
         <p className='mx-auto text-2xl'>Помидоры: {tomatos}</p>
